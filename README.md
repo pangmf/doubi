@@ -41,9 +41,9 @@
   * [adbyby.sh](#adbybysh)
   * [gfw_push.sh](#gfw_pushsh)
   * [libsodium.sh](#libsodiumsh)
-  * [BBR+BBR魔改+Lotsever(锐速)一键脚本](#BBR+BBR魔改+Lotsever(锐速)一键脚本)
+  * [BBR+BBR魔改+Lotsever(锐速)一键脚本](#BBRBBR魔改Lotsever(锐速)一键脚本)
   * [multi-v2ray](#multi-v2ray)
-  * [Aria2+Aria2Ng+OneIndex一键安装脚本](#Aria2+Aria2Ng+OneIndex一键安装脚本)
+  * [Aria2+Aria2Ng+OneIndex一键安装脚本](#Aria2Aria2NgOneIndex一键安装脚本)
   * [宝塔面板一键安装](#宝塔面板一键安装)
 
 ---
