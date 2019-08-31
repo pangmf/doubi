@@ -493,15 +493,15 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/pipesocks/insta
 ```
 
 ---
-## ~~gogo.sh~~
+## 宝塔面板一键安装~~
 
-- 脚本说明: GoGo Tunnel 一键安装管理脚本（该软件已停更）
-- 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/wlzy-24/
+- 脚本说明: 宝塔面板 一键安装管理脚本（该软件已停更）
+- 系统支持: Debian6+ 
+
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/gogo.sh && chmod +x gogo.sh && bash gogo.sh
+wget -O install.sh http://download.bt.cn/install/install-ubuntu.sh && bash install.sh
 ```
 
 ---
