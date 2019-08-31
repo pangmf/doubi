@@ -41,9 +41,10 @@
   * [adbyby.sh](#adbybysh)
   * [gfw_push.sh](#gfw_pushsh)
   * [libsodium.sh](#libsodiumsh)
-  * [ssrstatus.sh](#ssrstatussh)
-  * [ssr_check.sh](#ssr_checksh)
-  * [ssr_ip_check.sh](#ssr_ip_checksh)
+  * [BBR+BBR魔改+Lotsever(锐速)一键脚本](#BBR+BBR魔改+Lotsever(锐速)一键脚本)
+  * [multi-v2ray](#multi-v2ray)
+  * [Aria2+Aria2Ng+OneIndex一键安装脚本](#Aria2+Aria2Ng+OneIndex一键安装脚本)
+  * [宝塔面板一键安装](#宝塔面板一键安装)
 
 ---
 
@@ -457,15 +458,15 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBack
 ```
 
 ---
-## ssrstatus.sh
+## BBR+BBR魔改+Lotsever(锐速)一键脚本
 
-- 脚本说明: ShadowsocksR 账号在线监控网站
+- 脚本说明: BBR+BBR魔改+Lotsever(锐速)一键脚本
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/shell-jc5/
+- 使用方法: https://www.moerats.com/archives/387/
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ssrstatus.sh && chmod +x ssrstatus.sh && bash ssrstatus
+wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
 ```
 
 ---
