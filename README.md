@@ -41,6 +41,7 @@
   * [adbyby.sh](#adbybysh)
   * [gfw_push.sh](#gfw_pushsh)
   * [libsodium.sh](#libsodiumsh)
+  * [UnblockNeteaseMusic](#UnblockNeteaseMusic)
   * [BBR+BBR魔改+Lotsever(锐速)一键脚本](#BBRBBR魔改Lotsever锐速一键脚本)
   * [multi-v2ray](#multi-v2ray)
   * [Aria2+Aria2Ng+OneIndex一键安装脚本](#Aria2Aria2NgOneIndex一键安装脚本)
@@ -446,16 +447,15 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBack
 ```
 
 ---
-## ssr_check.sh
+## UnblockNeteaseMusic
 
-- 脚本说明: ShadowsocksR 批量快速验证账号可用性
+- 脚本说明: 解锁网易云音乐灰色音乐
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/ss-jc56/
+- 使用方法: https://www.52pojie.cn/thread-1017175-1-3.html
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ssr_check.sh && chmod +x ssr_check.sh
-```
+wget -N --no-check-certificate [url=https://raw.githubusercontent.com/XIU2/SHELL/master/unblock163.sh]https://raw.githubusercontent.com/XIU2/SHELL/master/unblock163.sh[/url] && chmod +x unblock163.sh && bash unblock163.sh```
 
 ---
 ## BBR+BBR魔改+Lotsever(锐速)一键脚本
