@@ -455,7 +455,8 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBack
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate [url=https://raw.githubusercontent.com/XIU2/SHELL/master/unblock163.sh]https://raw.githubusercontent.com/XIU2/SHELL/master/unblock163.sh[/url] && chmod +x unblock163.sh && bash unblock163.sh```
+wget -N --no-check-certificate [url=https://raw.githubusercontent.com/XIU2/SHELL/master/unblock163.sh]https://raw.githubusercontent.com/XIU2/SHELL/master/unblock163.sh[/url] && chmod +x unblock163.sh && bash unblock163.sh
+```
 
 ---
 ## BBR+BBR魔改+Lotsever(锐速)一键脚本
