@@ -496,7 +496,7 @@ wget https://www.moerats.com/usr/shell/Aria2_OneIndex.sh && bash Aria2_OneIndex.
 ---
 ## 宝塔面板一键安装
 
-- 脚本说明: 宝塔面板 一键安装管理脚本（该软件已停更）
+- 脚本说明: 宝塔面板 一键安装管理脚本
 - 系统支持: Debian6+ 
 
 
