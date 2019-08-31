@@ -469,31 +469,31 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBack
 ```
 
 ---
-## ssr_ip_check.sh
+## multi-v2ray
 
-- 脚本说明: ShadowsocksR 检测每个端口链接IP数
+- 脚本说明: multi-v2ray一键安装
 - 系统支持: CentOS6+ / Debian6+ / Ubuntu14+
-- 使用方法: https://doub.io/ss-jc50/
+- 使用方法: https://github.com/Jrohy/multi-v2ray/blob/master/README.md
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ssr_ip_check.sh && chmod +x ssr_ip_check.sh
+source <(curl -sL https://git.io/fNgqx) --zh
 ```
 
 ---
-## ~~pipes.sh~~
+## Aria2+Aria2Ng+OneIndex一键安装脚本
 
-- 脚本说明: PipeSocks 一键安装管理脚本（该软件已停更）
-- 系统支持: CentOS7 / Debian7+ / Ubuntu14+
-- 使用方法: https://doub.io/pipesocks-jc2/
+- 脚本说明: Aria2+Aria2Ng+OneIndex一键安装脚本
+- 系统支持: Debian8+
+- 使用方法: https://www.moerats.com/archives/693/
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/pipesocks/install/master/install.sh && mv install.sh pipes.sh && chmod +x pipes.sh && bash pipes.sh
+wget https://www.moerats.com/usr/shell/Aria2_OneIndex.sh && bash Aria2_OneIndex.sh
 ```
 
 ---
-## 宝塔面板一键安装~~
+## 宝塔面板一键安装
 
 - 脚本说明: 宝塔面板 一键安装管理脚本（该软件已停更）
 - 系统支持: Debian6+ 
