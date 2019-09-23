@@ -53,7 +53,8 @@ const dp = new DPlayer({
         color: '#ffffff'
     }
 });
-dp.on('canplay',function() {
+dp.on('canplay',
+function() {
 fetch('', {
 redirect: 'follow'
 }).then(function(response) {
@@ -74,6 +75,8 @@ if (SubtitlesOctopus) {
 SubtitlesOctopusOnLoad();
 }
 })
+})
 </script>
 <a href="<?php e($url);?>" class="mdui-fab mdui-fab-fixed mdui-ripple mdui-color-theme-accent"><i class="mdui-icon material-icons">file_download</i></a>
-<?php view::end('content');?>" > /home/wwwroot/www.fegan.xyz/view/nexmoe/show/video5.php
+<?php view::end('content');?>
+" > /home/wwwroot/www.fegan.xyz/view/nexmoe/show/video5.php
