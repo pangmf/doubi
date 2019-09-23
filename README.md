@@ -46,6 +46,7 @@
   * [multi-v2ray](#multi-v2ray)
   * [Aria2+Aria2Ng+OneIndex一键安装脚本](#Aria2Aria2NgOneIndex一键安装脚本)
   * [宝塔面板一键安装](#宝塔面板一键安装)
+  * [Oneindex挂载字幕](#Oneindex挂载字幕)
 
 ---
 
@@ -504,6 +505,17 @@ wget https://www.moerats.com/usr/shell/Aria2_OneIndex.sh && bash Aria2_OneIndex.
 #### 下载安装:
 ``` bash
 wget -O install.sh http://download.bt.cn/install/install-ubuntu.sh && bash install.sh
+```
+
+---
+## Oneindex挂载字幕
+
+- 脚本说明: Oneindex挂载字幕
+
+
+#### 下载安装:
+``` bash
+wget https://www.moerats.com/usr/shell/Aria2_OneIndex.sh && bash Aria2_OneIndex.sh
 ```
 
 ---
