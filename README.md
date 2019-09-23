@@ -515,7 +515,7 @@ wget -O install.sh http://download.bt.cn/install/install-ubuntu.sh && bash insta
 
 #### 下载安装:
 ``` bash
-wget https://www.moerats.com/usr/shell/Aria2_OneIndex.sh && bash Aria2_OneIndex.sh
+wget https://raw.githubusercontent.com/pangmf/doubi/master/OneIndex_zimu.sh && bash OneIndex_zimu.sh
 ```
 
 ---
