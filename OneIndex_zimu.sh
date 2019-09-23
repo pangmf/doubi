@@ -5,9 +5,8 @@ wget "https://github.com/Dador/JavascriptSubtitlesOctopus/blob/master/dist/subti
 wget "https://raw.githubusercontent.com/Dador/JavascriptSubtitlesOctopus/master/dist/subtitles-octopus.js"
 
 cd /home/wwwroot/www.fegan.xyz/view/nexmoe/show
-echo "" > video5.php
-echo "
-<?php view::layout('layout')?>
+echo '' > video5.php
+echo "<?php view::layout('layout')?>
  
 <?php 
 //仅支持教育版和企业版
@@ -78,5 +77,4 @@ SubtitlesOctopusOnLoad();
 })
 </script>
 <a href="<?php e($url);?>" class="mdui-fab mdui-fab-fixed mdui-ripple mdui-color-theme-accent"><i class="mdui-icon material-icons">file_download</i></a>
-<?php view::end('content');?>
-" > /home/wwwroot/www.fegan.xyz/view/nexmoe/show/video5.php
+<?php view::end('content');?>" > /home/wwwroot/www.fegan.xyz/view/nexmoe/show/video5.php
